@@ -1,0 +1,4 @@
+
+Número de comparações de chaves: 999000
+Número de cópias de registros (trocas): 240412
+Tempo de execução (ciclos de clock): 0
